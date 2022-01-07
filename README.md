@@ -1,4 +1,4 @@
-## Olá eu sou a Sara, mas pode me chamar de Ayram! 🖐🏼
+## Olá eu sou a Sara, mas pode me chamar de Ayram!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Eu tenho 21 anos, estou cursando o segundo semestre em análise e desenvolvimento de sistemas na UNINTER e criei esse GitHub para armazenar meus projetos. Além de programar, no meu tempo vago faço algumas artes. Sou uma grande entusiasta de tecnologia e estou sempre buscando aprender coisas novas. 
 <br>
 <br>
