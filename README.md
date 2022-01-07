@@ -1,8 +1,8 @@
-### Olá eu sou a Sara, mas pode me chamar de Ayram! 🖐🏼
+## Olá eu sou a Sara, mas pode me chamar de Ayram! 🖐🏼
 Eu tenho 21 anos, estou cursando o segundo semestre em análise e desenvolvimento de sistemas na UNINTER e criei esse GitHub para armazenar meus projetos. Além de programar, no meu tempo vago faço algumas artes. Sou uma grande entusiasta de tecnologia e estou sempre buscando aprender coisas novas. 
 <br>
 <br>
-<br/>
+
 Logo abaixo está algumas redes sociais minhas :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -12,8 +12,9 @@ Logo abaixo está algumas redes sociais minhas :
 
 <br>
 <br>
+<br>
 
-### Tecnologias que tenho estudado atualmente 📚
+## Tecnologias que tenho estudado atualmente 📚
 <div style="dispay:inline_block"><br/>
   <img align="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
   <img align="center" alt="javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
@@ -26,7 +27,7 @@ Logo abaixo está algumas redes sociais minhas :
 <br>
 <br>
 
-### Algumas skills de designer :
+## Algumas skills de designer 🎨 
 
 <div style="dispay:inline_block"><br/>
   <img align="center" alt="photshop" src=https://aleen42.github.io/badges/src/illustrator.svg />
@@ -45,6 +46,13 @@ Logo abaixo está algumas redes sociais minhas :
 
 
 ![Ayram GitHub Status](https://github-readme-stats.vercel.app/api?username=ZoeDoceAmarga&show_icons=true&theme=gruvbox)
+<br/>
+<br/>
+<br/>
+
+## 🎁 Expressões de gratidão
+- Primeiramente, obrigada por você chegar até aqui, você é demais!
+- Conte a outras pessoas sobre este perfil 📢
 
 
 
