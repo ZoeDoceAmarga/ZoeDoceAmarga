@@ -1,71 +1,39 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Oii meu nome é Sara, é um prazer ter você aqui. 😄
-Eu tenho 22 anos, estou cursando o segundo semestre em análise e desenvolvimento de sistemas na UNINTER e criei esse GitHub para armazenar meus projetos. Além de programar, no meu tempo vago faço algumas artes. Sou uma grande entusiasta de tecnologia e estou sempre buscando aprender coisas novas. 
-<br>
-<br>  
+![Banner Top](https://github.com/user-attachments/assets/712f4023-36e2-40d0-ad95-77c646a29705)
 
-Logo abaixo está algumas redes sociais minhas :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=55&duration=4000&pause=1000&color=93AAED&center=true&vCenter=true&width=1080&height=65&lines=Bem-vindo(a)+ao+meu+perfil+%F0%9F%98%81)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayram_yu/)
+## Sobre mim
 
+Oi! Me chamo Sara, tenho 24 anos e sou carioca com muito orgulho! 🌟  
+Estou me dedicando ao curso de Análise e Desenvolvimento de Sistemas na UNINTER.  
+Sou completamente apaixonada por tecnologia e adoro compartilhar aprendizados, dicas e curiosidades no meu Instagram [@ayram_dev](https://www.instagram.com/ayram_dev/). Vamos conversar sobre programação ou projetos tech? Ficarei super feliz em trocar ideias! 😊💻✨
 
-<br>
-<br>
-<br>
+## Tecnologias
 
-## Tecnologias que tenho estudado atualmente 📚
-<div style="dispay:inline_block"><br/>
-  <img align="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
-  <img align="center" alt="javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-  <img align="center" alt="css3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-  <img align="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-  <img align="center" alt="react" src=	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-<br>
-<br>
-<br>
+## Redes Sociais
 
-## Algumas skills de designer 🎨 
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sara-ayram/)
 
-<div style="dispay:inline_block"><br/>
-  <img align="center" alt="photshop" src=https://aleen42.github.io/badges/src/illustrator.svg />
-  <img align="center" alt="photshop" src=https://aleen42.github.io/badges/src/photoshop.svg />
-  <img align="center" alt="photshop" src=https://aleen42.github.io/badges/src/premiere.svg /> 
-   <img align="center" alt="photshop" src=https://aleen42.github.io/badges/src/after_effects.svg />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZoeDoceAmarga/ZoeDoceAmarga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZoeDoceAmarga/ZoeDoceAmarga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZoeDoceAmarga/ZoeDoceAmarga/output/pacman-contribution-graph.svg">
+</picture>
 
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FZoeDoceAmarga&s=38&c=758ff5&bg=00000000&no=4&ff=alien&tb=Visitantes%3A+&ta=" alt="Contador de visitas" />
+</p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div align="center">
+  <img height="200" src="https://i.gifer.com/fz.gif"  />
+</div>
 
-
-
-
-![Ayram GitHub Status](https://github-readme-stats.vercel.app/api?username=ZoeDoceAmarga&show_icons=true&theme=gruvbox)
-<br/>
-<br/>
-<br/>
-
-## 🎁 Expressões de gratidão
-- Primeiramente, obrigada por você chegar até aqui, você é demais!
-- Conte a outras pessoas sobre este perfil 📢
-
-
-<!--
-**ZoeDoceAmarga/ZoeDoceAmarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner Bottom](https://github.com/user-attachments/assets/4911ac1c-3ddb-463a-b64e-bde22288d26c)
